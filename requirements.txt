@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic-settings
+langchain
+langchain-core
+langchain-groq
+langchain-google-genai
+langgraph
+psycopg2-binary
+pandas
+openpyxl
+python-dotenv
